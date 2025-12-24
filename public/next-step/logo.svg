@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 236.3">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Montserrat-Regular, Montserrat;
+        font-size: 97.37px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #1d1d1b;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-size: 121.71px;
+        font-weight: 600;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: url(#Degradado_sin_nombre_82);
+      }
+
+      .cls-7 {
+        fill: url(#Degradado_sin_nombre_36);
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_75);
+      }
+
+      .cls-9 {
+        fill: url(#Degradado_sin_nombre_50);
+      }
+
+      .cls-10 {
+        fill: url(#Degradado_sin_nombre_65);
+      }
+
+      .cls-11 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_75" data-name="Degradado sin nombre 75" x1="140.23" y1="186.45" x2="177.49" y2="109.3" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#0d4c6e"/>
+      <stop offset=".49" stop-color="#3d8c9e"/>
+      <stop offset="1" stop-color="#77bdbc"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_65" data-name="Degradado sin nombre 65" x1="234.29" y1="184.09" x2="287.16" y2="89.47" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#1a5c7f"/>
+      <stop offset=".49" stop-color="#2c7c93"/>
+      <stop offset="1" stop-color="#3b92a2"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_50" data-name="Degradado sin nombre 50" x1="207.88" y1="163.07" x2="259.02" y2="67.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#2e6a8f"/>
+      <stop offset=".52" stop-color="#60a1aa"/>
+      <stop offset="1" stop-color="#7dc4bc"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_36" data-name="Degradado sin nombre 36" x1="186.77" y1="116.83" x2="205.39" y2="163.76" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#274559"/>
+      <stop offset=".52" stop-color="#377e8d"/>
+      <stop offset="1" stop-color="#6db3b5"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_82" data-name="Degradado sin nombre 82" x1="145.24" y1="190.44" x2="177.83" y2="132.12" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#004c6e"/>
+      <stop offset=".49" stop-color="#266889"/>
+      <stop offset="1" stop-color="#358198"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-8" d="M113.38,202.54l47.57-101.46c21.62-20.96,38.11,2.59,38.11,2.59l-36.45,78.91c-11.98,19.29-31.27,19.96-31.27,19.96h-17.96Z"/>
+  <path class="cls-10" d="M196.16,188.24s12.46,27.85,38.27,5.56l48.95-87.61,21.17,16.23V33.76l-77.38,135.35-31.01,19.13Z"/>
+  <path class="cls-9" d="M196.16,188.24l56.52-100.86-26.66-9.56,78.54-44.05-77.38,135.35c-14.2,16.52-31.01,19.13-31.01,19.13Z"/>
+  <polygon class="cls-7" points="219.01 147.46 199.06 103.67 178.84 147.46 196.16 188.24 219.01 147.46"/>
+  <path class="cls-6" d="M199.06,103.67c-20.09-.59-31.3,23.83-31.3,23.83l-35.62,74.94,31.64-22.4,35.28-76.38Z"/>
+  <text class="cls-2" transform="translate(354.06 120.17)"><tspan x="0" y="0">N</tspan><tspan class="cls-11" x="98.58" y="0">e</tspan><tspan x="172.46" y="0">xt S</tspan><tspan class="cls-12" x="403.95" y="0">t</tspan><tspan class="cls-5" x="453.37" y="0">ep</tspan></text>
+  <text class="cls-1" transform="translate(365.5 202.54)"><tspan class="cls-13" x="0" y="0">c</tspan><tspan x="53.94" y="0">onsu</tspan><tspan class="cls-3" x="294.05" y="0">l</tspan><tspan x="320.44" y="0">ti</tspan><tspan class="cls-4" x="386.16" y="0">n</tspan><tspan x="452.27" y="0">g</tspan></text>
+</svg>
